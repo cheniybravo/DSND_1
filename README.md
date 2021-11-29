@@ -1,6 +1,14 @@
 ## ChocolateBar
 This is the first project for Udacity Data Science Nano Degree Program. Mainly a descriptive data analysis.
 
+### Installation
+The project was done within Anaconda Jupyter environment. The following Python packages are used for this project:
+![image info](https://www.ikkaro.com/wp-content/uploads/2019/02/distribuci%C3%B3n-anaconda-data-science.png.webp)
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
 ### Project Desciption
 I am going to use the Chocolate Bar Rating dataset from Kaggle: https://www.kaggle.com/rtatman/chocolate-bar-ratings to answer 3 basic data questions:
 
