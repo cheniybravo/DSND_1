@@ -3,6 +3,7 @@ This is the first project for Udacity Data Science Nano Degree Program. Mainly a
 
 ### Installation
 The project was done within Anaconda Jupyter environment. The following Python packages are used for this project:
+![image info](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)#/media/File:Anaconda_Logo.png)
 * Pandas
 * Numpy
 * Matplotlib
